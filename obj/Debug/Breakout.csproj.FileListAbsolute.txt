@@ -1,0 +1,12 @@
+C:\Users\mi191328\source\repos\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\mi191328\source\repos\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\mi191328\source\repos\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.Breakout.resources
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.Clear.resources
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.GameOver.resources
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.Title.resources
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\mi191328\source\repos\Breakout\Breakout\obj\Debug\Breakout.pdb
